@@ -11,7 +11,15 @@ namespace Proj1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            DBConnect db =new DBConnect();
+            
 
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            DBConnect db = new DBConnect();
+            db.DBConnectMethod("IDate");
         }
     }
 }
