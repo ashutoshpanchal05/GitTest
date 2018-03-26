@@ -3,3 +3,17 @@ C:\GitTest\GitTest\Proj1\Proj1\obj\Debug\Proj1.pdb
 C:\GitTest\GitTest\Proj1\Proj1\bin\Proj1.dll
 C:\GitTest\GitTest\Proj1\Proj1\bin\Proj1.pdb
 C:\GitTest\GitTest\Proj1\Proj1\obj\Debug\Proj1.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\BusinessLogic.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\BusinessObject.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\DataAccess.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\Newtonsoft.Json.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Net.Http.Formatting.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Web.Http.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Web.Http.WebHost.dll
+C:\GitTest\GitTest\Proj1\Proj1\bin\BusinessLogic.pdb
+C:\GitTest\GitTest\Proj1\Proj1\bin\BusinessObject.pdb
+C:\GitTest\GitTest\Proj1\Proj1\bin\DataAccess.pdb
+C:\GitTest\GitTest\Proj1\Proj1\bin\Newtonsoft.Json.xml
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Net.Http.Formatting.xml
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Web.Http.xml
+C:\GitTest\GitTest\Proj1\Proj1\bin\System.Web.Http.WebHost.xml

@@ -1,0 +1,9 @@
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\DataAccess.dll
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\GitTest\GitTest\Proj1\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\GitTest\GitTest\Proj1\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\GitTest\GitTest\Proj1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\GitTest\GitTest\Proj1\BusinessLogic\obj\Debug\BusinessLogic.pdb

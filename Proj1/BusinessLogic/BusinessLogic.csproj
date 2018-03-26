@@ -43,6 +43,10 @@
     <Compile Include="UserBL.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BusinessObject\BusinessObject.csproj">
+      <Project>{cfa58e1b-e380-4226-b25f-939004dd08d7}</Project>
+      <Name>BusinessObject</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">
       <Project>{7b30392e-2aa1-4422-a1c9-dff7f0dfd3a3}</Project>
       <Name>DataAccess</Name>

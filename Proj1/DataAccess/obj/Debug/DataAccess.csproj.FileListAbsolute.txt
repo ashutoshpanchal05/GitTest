@@ -1,0 +1,7 @@
+C:\GitTest\GitTest\Proj1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\GitTest\GitTest\Proj1\DataAccess\bin\Debug\DataAccess.dll
+C:\GitTest\GitTest\Proj1\DataAccess\bin\Debug\DataAccess.pdb
+C:\GitTest\GitTest\Proj1\DataAccess\bin\Debug\BusinessObject.dll
+C:\GitTest\GitTest\Proj1\DataAccess\bin\Debug\BusinessObject.pdb
+C:\GitTest\GitTest\Proj1\DataAccess\obj\Debug\DataAccess.dll
+C:\GitTest\GitTest\Proj1\DataAccess\obj\Debug\DataAccess.pdb

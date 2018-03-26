@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace BusinessObject
 {
-    class UserBO
+   public class UserBO
     {
         string fname,lname,email,pass,addr;
         int state, city;
 
 
 
-        public string fname { get; set; }
-        public string lname { get; set; }
-        public string email { get; set; }
-        public string pass { get; set; }
-        public string addr { get; set; }
-        public int state { get; set; }
-        public int city { get; set; }
+        public string Fname { get { return fname; } set { fname = value; } }
+        public string Lname { get { return lname; } set { lname = value; } }
+        public string Email { get { return email; } set { email = value; } }
+        public string Pass { get { return pass; } set { pass = value; } }
+        public string Addr { get { return addr; } set { addr = value; } }
+        public int State { get { return state; } set { state = value; } }
+        public int City { get { return city; } set { city = value; } }
 
 
 

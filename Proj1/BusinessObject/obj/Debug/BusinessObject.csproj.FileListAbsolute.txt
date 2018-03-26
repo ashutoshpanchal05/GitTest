@@ -1,0 +1,5 @@
+C:\GitTest\GitTest\Proj1\BusinessObject\bin\Debug\BusinessObject.dll
+C:\GitTest\GitTest\Proj1\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\GitTest\GitTest\Proj1\BusinessObject\obj\Debug\BusinessObject.csprojResolveAssemblyReference.cache
+C:\GitTest\GitTest\Proj1\BusinessObject\obj\Debug\BusinessObject.dll
+C:\GitTest\GitTest\Proj1\BusinessObject\obj\Debug\BusinessObject.pdb

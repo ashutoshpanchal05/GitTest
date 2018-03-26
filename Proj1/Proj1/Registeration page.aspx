@@ -11,10 +11,11 @@
         .classA {
             width:30%;
             float:left;
+            height: 224px;
         }
         .classB {
             width:30%;
-            float:initial;
+            float:left;
         }
 
           .classC {
